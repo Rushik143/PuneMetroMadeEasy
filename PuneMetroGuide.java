@@ -57,7 +57,7 @@ public class PuneMetroGuide {
         String[] purpleLineStations = {
             "PCMC", "Sant Tukaram Nagar", "Bhosari (Nashik Phata)", "Kasarwadi",
             "Phugewadi", "Dapodi", "Bopodi", "Khadki", "Range Hill", "Shivaji Nagar",
-            "Civil Court", "Kasba Peth","Mandai","Swargate"
+            "Civil Court", "Budhwar Peth","Mandai","Swargate"
         };
         for (String station : purpleLineStations) {
             metro.addStation(station, "Purple");
